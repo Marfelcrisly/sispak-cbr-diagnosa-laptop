@@ -80,6 +80,40 @@ Beberapa modul utama dalam aplikasi:
 
 ## Cara Menjalankan Project
 
+## Screenshot Aplikasi
+
+Berikut beberapa tampilan utama dari aplikasi sistem pakar diagnosa kerusakan laptop.
+
+### Halaman Login
+![Halaman Login](screenshots/login.png)
+
+### Dashboard Admin
+![Dashboard Admin](screenshots/dashboard%20admin.png)
+
+### Dashboard Teknisi
+![Dashboard Teknisi](screenshots/dashboard%20teknisi.png)
+
+### Dashboard User
+![Dashboard User](screenshots/dashboard%20user.png)
+
+### Form Diagnosa
+![Form Diagnosa](screenshots/diagnosa.png)
+
+### Data Gejala
+![Data Gejala](screenshots/data%20gejala.png)
+
+### Data Kerusakan
+![Data Kerusakan](screenshots/data%20kerusakan.png)
+
+### Detail Retain
+![Detail Retain](screenshots/detail%20retain.png)
+
+### Detail Riwayat Diagnosa
+![Detail Riwayat Diagnosa](screenshots/detail%20riwayat%20diagnosa.png)
+
+### Evaluasi
+![Evaluasi](screenshots/evaluasi.png)
+
 1. Clone repository
    ```bash
    git clone https://github.com/Marfelcrisly/sispak-cbr-diagnosa-laptop.git
