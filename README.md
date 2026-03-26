@@ -29,14 +29,16 @@ Metode **Case-Based Reasoning (CBR)** digunakan karena mampu menyelesaikan masal
 
 ## Metode yang Digunakan
 Metode utama yang digunakan pada sistem ini adalah **Case-Based Reasoning (CBR)**, dengan tahapan:
-1. **Retrieve** – mencari kasus lama yang paling mirip dengan kasus baru
-2. **Reuse** – menggunakan solusi dari kasus yang paling mirip
-3. **Revise** – meninjau kembali hasil solusi
-4. **Retain** – menyimpan kasus baru sebagai pengetahuan baru jika diperlukan
+
+1. **Retrieve** – mencari kasus lama yang paling mirip dengan kasus baru  
+2. **Reuse** – menggunakan solusi dari kasus yang paling mirip  
+3. **Revise** – meninjau kembali hasil solusi  
+4. **Retain** – menyimpan kasus baru sebagai pengetahuan baru jika diperlukan  
 
 Perhitungan similarity dilakukan berdasarkan kecocokan gejala yang dipilih pengguna dengan gejala yang ada pada basis kasus.
 
 ## Role Pengguna
+
 ### Admin
 - Mengelola data gejala
 - Mengelola data kerusakan
@@ -77,6 +79,7 @@ Beberapa modul utama dalam aplikasi:
 - **Setting CBR**: pengaturan threshold similarity
 
 ## Cara Menjalankan Project
+
 1. Clone repository
    ```bash
    git clone https://github.com/Marfelcrisly/sispak-cbr-diagnosa-laptop.git
